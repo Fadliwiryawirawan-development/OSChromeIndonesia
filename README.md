@@ -2,7 +2,7 @@
 
 https://github.com/user-attachments/assets/772fd5d1-8262-4915-8214-d159be418542
 
-
+# "https://bughunters.google.com/"
 This API & Web provides access to hero analytics, in-game performance data, academy resources, player endpoints, and utility tools. It is designed with a consistent RESTful structure, supports flexible hero identifiers (ID or name), and delivers standardized responses for seamless integration into applications, dashboards, analytics systems, and internal tooling.
 
 Important
